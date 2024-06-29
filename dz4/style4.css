@@ -1,0 +1,25 @@
+.product{
+    width: 150px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.mainContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container {
+    align-items: center;
+}
+
+h3{
+    text-align: center;
+}
+
+img{
+    margin: 10px;
+}

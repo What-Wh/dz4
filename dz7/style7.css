@@ -1,0 +1,36 @@
+.container{
+    background-color: blue;
+    height: 250px;
+    padding-top: 50px;
+}
+
+h4{
+    color: white;
+    margin-left: 200px;
+}
+
+h4:hover{
+    text-decoration: underline;
+}
+
+.containerr{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+img{
+    margin: 50px;
+}
+
+.imgg{
+    margin-left: 400px;
+}
+
+.img_one:hover{
+    background-image: url(/img/fb.png);
+}
